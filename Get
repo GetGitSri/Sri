@@ -1,2 +1,2 @@
 echo "# Sri" >> README.md
-
+echo "# This is first code" >>README.md
